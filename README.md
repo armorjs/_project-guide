@@ -18,8 +18,8 @@ Build
 
 
 
-Key Store
-![CI](https://github.com/armorjs/key/workflows/CI/badge.svg?branch=master) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=armorjs_key-store&metric=coverage)](https://sonarcloud.io/dashboard?id=armorjs_key-store) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=armorjs_key-store&metric=alert_status)](https://sonarcloud.io/dashboard?id=armorjs_key-store)
+Map
+![CI](https://github.com/armorjs/map/workflows/CI/badge.svg?branch=master) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=armorjs_map&metric=coverage)](https://sonarcloud.io/dashboard?id=armorjs_map) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=armorjs_map&metric=alert_status)](https://sonarcloud.io/dashboard?id=armorjs_map)
 -----
 
 
